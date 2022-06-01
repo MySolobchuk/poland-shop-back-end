@@ -1,0 +1,11 @@
+/node_modules
+/public/hot
+/public/storage
+/vendor
+/docker/postgres/data
+/.idea
+.env
+.env.backup
+.phpunit.result.cache
+/packages
+/storage/debugbar
